@@ -3,6 +3,8 @@ backend:
   repo: samsunjack123/gy-tech-solutions
   branch: main
   auth_scope: repo
+  base_url: https://gy-tech-oauth.samsunjack123.workers.dev
+  auth_endpoint: /auth
 
 media_folder: "public/images"
 public_folder: "/images"
